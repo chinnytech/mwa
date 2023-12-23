@@ -96,8 +96,8 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.17.11.243:8181/chinnytech/repository/Chinny_Releases/</url>
+	      <name>Bliss Releases Nexus Repository</name>
+	      <url>http://3.145.130.76:8081/repository/Bliss/</url>
 	    </repository>
 
 	    <snapshotRepository>
