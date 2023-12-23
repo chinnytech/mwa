@@ -114,9 +114,7 @@
     <url>http://127.0.0.1/dummy</url>
   </scm>
 	<build>
-		<finalName>Landmark</finalName>
-		
-		<plugins>
+			<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
